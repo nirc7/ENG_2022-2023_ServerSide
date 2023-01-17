@@ -10,22 +10,26 @@ namespace WebApplication1.Controllers
 {
     public class StudentsController : ApiController
     {
+        //Select/Read ALL
         public List<Student> Get()
         {
             return StudentsDBMock.studnets;
         }
 
+        //SELECT/Read By ID
         public Student Get(int id)
         {
             return StudentsDBMock.studnets.FirstOrDefault(stu => stu.Id == id);
         }
 
+        //INSERT/Create
         public int Post([FromBody] Student value)
         {
             StudentsDBMock.studnets.Add(value);
             return value.Id;
         }
 
+        //Update
         public string Put(int id, [FromBody] Student value)
         {
             Student stu2Update = StudentsDBMock.studnets.FirstOrDefault(stu => stu.Id == id);
@@ -34,6 +38,7 @@ namespace WebApplication1.Controllers
             return "done:)";
         }
 
+        //Delete
         public IHttpActionResult Delete(int id)
         {
             Student stu2Del = StudentsDBMock.studnets.FirstOrDefault(stu=> stu.Id == id);
