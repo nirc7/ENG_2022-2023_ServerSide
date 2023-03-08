@@ -1,0 +1,12 @@
+C:\Users\ruppin\Desktop\ENG_2022-2023_ServerSide\Lec04 08_03_2023 WinFroms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ruppin\Desktop\ENG_2022-2023_ServerSide\Lec04 08_03_2023 WinFroms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ruppin\Desktop\ENG_2022-2023_ServerSide\Lec04 08_03_2023 WinFroms\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ruppin\Desktop\ENG_2022-2023_ServerSide\Lec04 08_03_2023 WinFroms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ruppin\Desktop\ENG_2022-2023_ServerSide\Lec04 08_03_2023 WinFroms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ruppin\Desktop\ENG_2022-2023_ServerSide\Lec04 08_03_2023 WinFroms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ruppin\Desktop\ENG_2022-2023_ServerSide\Lec04 08_03_2023 WinFroms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ruppin\Desktop\ENG_2022-2023_ServerSide\Lec04 08_03_2023 WinFroms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ruppin\Desktop\ENG_2022-2023_ServerSide\Lec04 08_03_2023 WinFroms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ruppin\Desktop\ENG_2022-2023_ServerSide\Lec04 08_03_2023 WinFroms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ruppin\Desktop\ENG_2022-2023_ServerSide\Lec04 08_03_2023 WinFroms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ruppin\Desktop\ENG_2022-2023_ServerSide\Lec04 08_03_2023 WinFroms\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DBForm.resources
