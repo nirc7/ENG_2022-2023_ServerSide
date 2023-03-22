@@ -1,0 +1,18 @@
+C:\Users\ruppin\Desktop\ENG_2022-2023_ServerSide\Lec072 16_03_2023 3TL DLLs\DBWA3TL\UsersBLLProj\bin\Debug\UsersBLLProj.dll
+C:\Users\ruppin\Desktop\ENG_2022-2023_ServerSide\Lec072 16_03_2023 3TL DLLs\DBWA3TL\UsersBLLProj\bin\Debug\UsersBLLProj.pdb
+C:\Users\ruppin\Desktop\ENG_2022-2023_ServerSide\Lec072 16_03_2023 3TL DLLs\DBWA3TL\UsersBLLProj\obj\Debug\UsersBLLProj.csproj.AssemblyReference.cache
+C:\Users\ruppin\Desktop\ENG_2022-2023_ServerSide\Lec072 16_03_2023 3TL DLLs\DBWA3TL\UsersBLLProj\obj\Debug\UsersBLLProj.csproj.CoreCompileInputs.cache
+C:\Users\ruppin\Desktop\ENG_2022-2023_ServerSide\Lec072 16_03_2023 3TL DLLs\DBWA3TL\UsersBLLProj\obj\Debug\UsersBLLProj.dll
+C:\Users\ruppin\Desktop\ENG_2022-2023_ServerSide\Lec072 16_03_2023 3TL DLLs\DBWA3TL\UsersBLLProj\obj\Debug\UsersBLLProj.pdb
+C:\Users\ruppin\Desktop\ENG_2022-2023_ServerSide\Lec072 16_03_2023 3TL DLLs\DBWA3TL\UsersBLLProj\bin\Debug\UsersDalProj.dll
+C:\Users\ruppin\Desktop\ENG_2022-2023_ServerSide\Lec072 16_03_2023 3TL DLLs\DBWA3TL\UsersBLLProj\bin\Debug\UsersDalProj.pdb
+C:\Users\ruppin\Desktop\ENG_2022-2023_ServerSide\Lec072 16_03_2023 3TL DLLs\DBWA3TL\UsersBLLProj\obj\Debug\UsersBLLProj.csproj.CopyComplete
+C:\Users\ruppin\Desktop\ENG_2022-2023_ServerSide\Lec08 22_03_2023 Server Client Connection\DBWA3TL\UsersBLLProj\bin\Debug\UsersBLLProj.dll
+C:\Users\ruppin\Desktop\ENG_2022-2023_ServerSide\Lec08 22_03_2023 Server Client Connection\DBWA3TL\UsersBLLProj\bin\Debug\UsersBLLProj.pdb
+C:\Users\ruppin\Desktop\ENG_2022-2023_ServerSide\Lec08 22_03_2023 Server Client Connection\DBWA3TL\UsersBLLProj\bin\Debug\UsersDalProj.dll
+C:\Users\ruppin\Desktop\ENG_2022-2023_ServerSide\Lec08 22_03_2023 Server Client Connection\DBWA3TL\UsersBLLProj\bin\Debug\UsersDalProj.pdb
+C:\Users\ruppin\Desktop\ENG_2022-2023_ServerSide\Lec08 22_03_2023 Server Client Connection\DBWA3TL\UsersBLLProj\obj\Debug\UsersBLLProj.csproj.AssemblyReference.cache
+C:\Users\ruppin\Desktop\ENG_2022-2023_ServerSide\Lec08 22_03_2023 Server Client Connection\DBWA3TL\UsersBLLProj\obj\Debug\UsersBLLProj.csproj.CoreCompileInputs.cache
+C:\Users\ruppin\Desktop\ENG_2022-2023_ServerSide\Lec08 22_03_2023 Server Client Connection\DBWA3TL\UsersBLLProj\obj\Debug\UsersBLLProj.csproj.CopyComplete
+C:\Users\ruppin\Desktop\ENG_2022-2023_ServerSide\Lec08 22_03_2023 Server Client Connection\DBWA3TL\UsersBLLProj\obj\Debug\UsersBLLProj.dll
+C:\Users\ruppin\Desktop\ENG_2022-2023_ServerSide\Lec08 22_03_2023 Server Client Connection\DBWA3TL\UsersBLLProj\obj\Debug\UsersBLLProj.pdb
