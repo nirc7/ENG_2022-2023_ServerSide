@@ -1,6 +1,0 @@
-C:\Users\ruppin\Desktop\ENG_2022-2023_ServerSide\Lec072 16_03_2023 3TL DLLs\DBWA3TL\UsersDalProj\bin\Debug\UsersDalProj.dll
-C:\Users\ruppin\Desktop\ENG_2022-2023_ServerSide\Lec072 16_03_2023 3TL DLLs\DBWA3TL\UsersDalProj\bin\Debug\UsersDalProj.pdb
-C:\Users\ruppin\Desktop\ENG_2022-2023_ServerSide\Lec072 16_03_2023 3TL DLLs\DBWA3TL\UsersDalProj\obj\Debug\UsersDalProj.csproj.AssemblyReference.cache
-C:\Users\ruppin\Desktop\ENG_2022-2023_ServerSide\Lec072 16_03_2023 3TL DLLs\DBWA3TL\UsersDalProj\obj\Debug\UsersDalProj.csproj.CoreCompileInputs.cache
-C:\Users\ruppin\Desktop\ENG_2022-2023_ServerSide\Lec072 16_03_2023 3TL DLLs\DBWA3TL\UsersDalProj\obj\Debug\UsersDalProj.dll
-C:\Users\ruppin\Desktop\ENG_2022-2023_ServerSide\Lec072 16_03_2023 3TL DLLs\DBWA3TL\UsersDalProj\obj\Debug\UsersDalProj.pdb
